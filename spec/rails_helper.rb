@@ -56,5 +56,5 @@ RSpec.configure do |config|
   # config.filter_gems_from_backtrace("gem name")
 
 
-require ’support/factory_bot.rb’
+require 'support/factory_bot.rb'
 end
